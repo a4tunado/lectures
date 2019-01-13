@@ -1,0 +1,9 @@
+jupyter
+ipywidgets
+matplotlib
+numpy>=1.15.4
+opencv-python>=3.4
+opencv-contrib-python>=3.4
+tensorboard>=1.12
+tensorflow>=1.12
+h5py>=2.9.0
