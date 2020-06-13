@@ -1,4 +1,5 @@
 h5py>=2.9.0
+imageio>=2.8.0
 ipywidgets
 jupyter
 matplotlib
